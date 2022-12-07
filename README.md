@@ -1,5 +1,9 @@
 # Dictionary In Python
 ## A simple project to Update, delete and view Dictionary contents
+# How to Download and compile
+Download using `git clone https://github.com/castorichy/DictAccess.git`
+Compile by running `python3 mainFile.py`
+`
 ## Update Dictionary
 ```update()``` - Update function updates the dictionary with the items from a given argument. If the item does not exist, the item will be added.
                - The argument must be a dictionary, or an iterable object with key:value pairs.
