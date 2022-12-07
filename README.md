@@ -17,6 +17,6 @@ There are some methords of deleteng items in dictionary;
 2. ```keys()``` - Returns dictionary key items only
 3. ```values()``` - Returns dict values
 
-### conclution
+# Conclution
 This are some of the way i used to develop this siple project that deals with Dictionaries in python,
 if ther is other way to do this you are free to contribute.
